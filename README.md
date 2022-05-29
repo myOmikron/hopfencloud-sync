@@ -1,2 +1,2 @@
-# hopfencloud-sync
+# Hopfensync
 Sync client for hopfencloud
